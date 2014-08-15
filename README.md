@@ -1,4 +1,4 @@
 Coursera
 ========
 
-Coursera data science courework
+Coursera data science courework for Richard Bradley
